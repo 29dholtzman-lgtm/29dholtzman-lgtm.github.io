@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(65, 185, 224);
+}
+
+p {
+  font-family: "Times New Roman", sans-serif;
+}
+
+h3 {
+  font-family: "Lucida Console", sans-serif;
+}
+
+h2 {
+  font-family: "Lucida Console", sans-serif;
+}
+
+h1 {
+  font-family: "Lucida Console", sans-serif;
+}
+
+p {
+    color:black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.h3-container {
+    display: flex;                  
+    justify-content: space-between; 
+    align-items: center;            
+}
+
+.h3-container h3 {
+    margin: 0; 
+}
+
+.h2-container {
+    display: flex;                  
+    justify-content: space-between; 
+    align-items: center;            
+}
+
+.h2-container h2 {
+    margin: 0; 
+}
+
+.container {
+  display: flex;
+  justify-content: space-between; 
+  gap: 20px; 
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between; 
+}
+
+#GTSlink {
+  text-align: center; 
+  justify-content: space-between; 
+}
+
+a {
+    display: block;       
+    width: fit-content;   
+    margin: 0 auto;       
+    text-align: center;   
+}
+
+
+a {
+color: blue; 
+text-decoration: none; 
+}
+a:hover {
+color: orange; 
+}
+
+
+
+   
+   
