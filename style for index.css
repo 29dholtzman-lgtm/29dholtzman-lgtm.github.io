@@ -1,85 +1,38 @@
-body {
-    background-color: rgb(65, 185, 224);
-}
-
-p {
-  font-family: "Times New Roman", sans-serif;
-}
-
-h3 {
-  font-family: "Lucida Console", sans-serif;
-}
-
-h2 {
-  font-family: "Lucida Console", sans-serif;
+h1 {
+    text-align: center;
 }
 
 h1 {
   font-family: "Lucida Console", sans-serif;
 }
 
-p {
-    color:black;
+body {
+    background-color: rgb(65, 185, 224);
 }
 
-p {
-    font-size: 20px;
+li {
+    text-align: center;
 }
 
-.h3-container {
-    display: flex;                  
-    justify-content: space-between; 
-    align-items: center;            
+h3 {
+    text-align: center;
 }
 
-.h3-container h3 {
-    margin: 0; 
+img {
+    align-items: center;
 }
 
-.h2-container {
-    display: flex;                  
-    justify-content: space-between; 
-    align-items: center;            
+.center-img {
+  display: block;      
+  margin-left: auto;    
+  margin-right: auto;
 }
 
-.h2-container h2 {
-    margin: 0; 
+img {
+  border: 5px solid #9eec21; 
+  border-radius: 12px;        
 }
 
-.container {
-  display: flex;
-  justify-content: space-between; 
-  gap: 20px; 
-  width: 100%;
+h3 {
+  font-family: "Lucida Console", sans-serif;
 }
-
-.container {
-  display: flex;
-  justify-content: space-between; 
-}
-
-#GTSlink {
-  text-align: center; 
-  justify-content: space-between; 
-}
-
-a {
-    display: block;       
-    width: fit-content;   
-    margin: 0 auto;       
-    text-align: center;   
-}
-
-
-a {
-color: blue; 
-text-decoration: none; 
-}
-a:hover {
-color: orange; 
-}
-
-
-
-   
-   
